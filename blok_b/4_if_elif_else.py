@@ -9,6 +9,7 @@ if score >= 90:
 # else:
 #     print("Onvoldoende")
 
+
 # ---------------------------------------
 
 # leeftijd  = 20
