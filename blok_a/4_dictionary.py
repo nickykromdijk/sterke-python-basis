@@ -6,20 +6,15 @@ klant = {
     "actief": True,
 }
 
-klant2 = {
-    "naam": "Piet",
-    "leeftijd": 34,
-    "actief": True,
-}
 
 # Opvragen en aanpassen
 klant["naam"] = "Annabel"
 
 # Toevoegen
-klant["email"] = "anna@email.com"
+# klant["email"]
 
 # Alle keys en values
+
 # print(klant.keys())
 # print(klant.values())
-
 # Lijst van dicts

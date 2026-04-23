@@ -6,7 +6,7 @@ medewerkers = ["Anna", "Boris", "Cara"]
 medewerkers.append()
 
 # Verwijderen
-medewerkers.remove()
+# medewerkers.remove()
 
 # Aanpassen
 # medewerkers[0]
