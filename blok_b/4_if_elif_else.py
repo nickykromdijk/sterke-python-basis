@@ -2,12 +2,12 @@ score = 72
 
 if score >= 90:
     print("Uitstekend")
-elif score >= 70:
-    print("Voldoende")
-elif score >= 50:
-    print("Matig")
-else:
-    print("Onvoldoende")
+# elif score >= 70:
+#     print("Voldoende")
+# elif score >= 50:
+#     print("Matig")
+# else:
+#     print("Onvoldoende")
 
 # ---------------------------------------
 
