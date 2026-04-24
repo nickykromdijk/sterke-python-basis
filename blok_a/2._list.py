@@ -3,12 +3,11 @@
 medewerkers = ["Anna", "Boris", "Cara"]
 
 # Toevoegen
-medewerkers.append()
+medewerkers.append("David")
 
 # Verwijderen
-# medewerkers.remove()
+medewerkers.remove("David")
 
 # Aanpassen
-# medewerkers[0]
-
+medewerkers[0] = "Annabel"
 print(medewerkers)

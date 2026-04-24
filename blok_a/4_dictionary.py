@@ -6,15 +6,22 @@ klant = {
     "actief": True,
 }
 
+klant2 = {
+    "naam": "Piet",
+    "leeftijd": 55,
+    "actief": True,
+}
 
 # Opvragen en aanpassen
 klant["naam"] = "Annabel"
 
 # Toevoegen
-# klant["email"]
+klant["email"] = "anna@gmail.com"
+print(klant)
 
 # Alle keys en values
-
-# print(klant.keys())
-# print(klant.values())
+print(list(klant.keys()))
+print(list(klant.values()))
 # Lijst van dicts
+klanten = [klant, klant2]
+print({"klanten": klanten})

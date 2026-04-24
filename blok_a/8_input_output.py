@@ -1,4 +1,6 @@
-naam = input("Wat is je naam? ")
-print(f"Hoi {naam}, welkom bij de training!")
+# naam = input("Wat is je naam? ")
+# print(f"Hoi {naam}, welkom bij de training!")
+# print(type(naam))
 
-# leeftijd = input("Hoe oud ben je? ")
+leeftijd = int(input("Hoe oud ben je? "))
+print(type(leeftijd))
